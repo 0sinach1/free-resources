@@ -1,0 +1,8 @@
+1. https://www.mygreatlearning.com/academy/learn-for-free/courses/ui-ux
+A concise, beginner-friendly 1-hour course covering UI vs UX fundamentals, the UX process, wireframes, prototypes, and design tools.
+2. https://www.youtube.com/@figma
+Figma's own beginner course, updated in 2025. Clean, well-paced, and the recommended starting point before going to random YouTube tutorials.
+3. https://www.youtube.com/@DesignCourse
+Clear, project-based tutorials covering both the visual design side and the technical side — great for understanding how your designs actually get built.
+4. https://hackdesign.org/
+Free email-based course by industry designers delivering weekly lessons on design fundamentals, tools, and techniques. First 50 lessons are publicly accessible.
